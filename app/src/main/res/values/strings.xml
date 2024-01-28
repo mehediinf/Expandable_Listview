@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">Expandable_Listview</string>
+
+
+    <string-array name="network_abbreviation_list_header">
+        <item>ASCIIe</item>
+        <item>VIRUS</item>
+        <item>AVI</item>
+        <item>COMPUTER</item>
+        <item>DNS</item>
+        <item>DHCP</item>
+        <item>LAN</item>
+        <item>MAN</item>
+        <item>WAN</item>
+        <item>VLAN</item>
+        <item>Inter-VLAN</item>
+
+    </string-array>
+
+    <string-array name="network_abbreviation_list_child">
+        <item>American Standard Code for Information Interchange</item>
+        <item>Vital Information Resources Under Seize </item>
+        <item>Audio Video Interleaved </item>
+        <item>Common Operating Machine Purposely Used for Technological and Educational Research </item>
+        <item>Domain Name System </item>
+        <item>Dynamic Host Configuration Protocol </item>
+        <item>Local Area Network </item>
+        <item>Metropolitan Area Network </item>
+        <item>Wide Area Network </item>
+        <item>Virtual Local Area Network </item>
+        <item>Inter Virtual Local Area Network </item>
+
+    </string-array>
+
+
 </resources>
